@@ -1,1 +1,1 @@
-This is my first text for Git
+My testing of Git!
